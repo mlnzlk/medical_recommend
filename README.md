@@ -1,3 +1,8 @@
+#Project
+
+[프로젝트 설명.pdf](https://github.com/mlnzlk/medical_recommend/files/11817017/default.pdf)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
