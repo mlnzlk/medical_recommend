@@ -1,6 +1,13 @@
-#Project
+# Project
 
 [프로젝트 설명.pdf](https://github.com/mlnzlk/medical_recommend/files/11817017/default.pdf)
+<br><br>
+
+<img width="1189" alt="스크린샷 2023-06-21 오후 8 33 54" src="https://github.com/mlnzlk/medical_recommend/assets/93921790/ec433b5d-3625-4d4b-a6b9-8832c955622e">
+<img width="1212" alt="스크린샷 2023-06-21 오후 8 34 14" src="https://github.com/mlnzlk/medical_recommend/assets/93921790/6c9d5111-ed1c-4fdd-a712-d0aa29bfed7e">
+<img width="1198" alt="스크린샷 2023-06-21 오후 8 34 29" src="https://github.com/mlnzlk/medical_recommend/assets/93921790/9efc2c50-f521-4316-9338-999fd34c8ecc">
+<img width="1201" alt="스크린샷 2023-06-21 오후 8 35 06" src="https://github.com/mlnzlk/medical_recommend/assets/93921790/94889190-7172-45db-8bb2-a26e33f3b5e6">
+<br><br>
 
 
 # Getting Started with Create React App
